@@ -1,0 +1,24 @@
+BorderPane {
+    -fx-background-color: #ffe5c5;
+}
+BorderPane VBox[left] {
+    -fx-background-color: #ffe5c5;
+}
+BorderPane VBox[left] Label {
+    -fx-font-size: 14px;
+}
+BorderPane VBox[center] {
+    -fx-background-color: #ffe5c5;
+}
+BorderPane VBox[center] TextField {
+    -fx-background-color: #f2f2f2;
+    -fx-font-size: 14px;
+}
+BorderPane VBox[right] {
+    -fx-background-color: #ffe5c5;
+}
+BorderPane VBox[right] Button {
+    -fx-background-color: #8b4513;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
